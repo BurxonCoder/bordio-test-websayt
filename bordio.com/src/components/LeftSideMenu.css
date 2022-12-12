@@ -1,0 +1,37 @@
+.tool{
+    font-size: 25px;
+    
+}
+
+.nav-item a{
+    float: none;
+    padding: 12px 0px;
+    transform: translateX(-25px);
+    text-decoration: none;
+    display: block;
+    font-size: 20px;
+    text-align: left;
+}
+.a-head{
+    color: #0094FF;
+    
+}
+.heade-sec-1{
+    color: black;
+}
+.heade-sec-2{
+    color: black;
+}
+.heade-sec-3{
+    color: black;
+}.heade-sec-4{
+    color: black;
+}
+
+.header-tools{
+    background-color: #F5F8FA;
+    height: 100vh;
+    margin-left: 270px;
+    transform: translateY(-750px);
+
+}

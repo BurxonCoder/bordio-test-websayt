@@ -1,0 +1,69 @@
+.header-section{
+    background-color:#0F1D40;
+    width: 259px;
+    height: 100vh;
+}
+.logo-in-bordio{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+padding: 20px 20px 20px 20px ;  
+}
+
+.serch-section{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+padding: 5px 20px 20px 20px ;
+
+ 
+}
+
+.serch-body{
+    background-color: #2D4071;
+    padding: 7px 7px 7px 7px;
+    border: 2px solid #2D4071;
+    border-radius: 5px;
+    width: 220px; 
+
+}
+
+.person-section{
+    display: flex;
+    padding-left: 20px;
+    background-color: #2D4071;
+    padding: 10px 10px 10px 20px ;
+}
+.logo-in-odam{
+    width: 22px;
+    height: 22px;
+}
+.odam-text{
+    color: #ffff;
+}
+
+.nav-side a{
+    float: none;
+    color: #8C939F;
+    padding: 12px 5px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+.odam-text{
+    padding-left: 10px;
+}
+
+.favorit-section{
+    display: flex;
+    padding: 20px 0 0 40px;
+}
+.favorites{
+    color: #ffff;
+    padding-left:15px ;
+    font-size: 17px;
+}
+.favorit-section-body{
+    display: flex;
+    padding: 20px 0 0 0px;
+}

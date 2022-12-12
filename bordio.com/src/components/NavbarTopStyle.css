@@ -1,0 +1,44 @@
+.ul-dead {
+    display: flex;
+}
+
+.top-section-1{
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+    transform: translateX(400px);
+}
+.top-section-2{
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+    transform: translateX(600px);
+}
+.top-section-3{
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+    transform: translateX(800px);
+
+}
+.top-section-4{
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+transform: translateX(990px);
+}
+.top{
+    padding-left: 10px ;
+}
+.navbar-top{
+    transform: translateY(-1430px);
+}
+
+.line-head{
+    background-color: 
+    white;
+    color: 
+    white;
+    width: 1000px;
+    transform: translateX(160px);
+}
